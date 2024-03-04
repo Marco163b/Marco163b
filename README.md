@@ -7,7 +7,7 @@
 <br>
 [![Marco Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Marco163b&langs_count=5&hide=json,properties,stylus&custom_title=Most%20Used%20Languages&theme=transparent&range=all_time)](https://wakatime.com/@Marco163b)
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/Marco163b/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Marco163b" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
