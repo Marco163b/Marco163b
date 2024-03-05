@@ -7,4 +7,6 @@
 <pt-br>
 [![Marco Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Marco163b&langs_count=5&hide=json,properties,stylus&custom_title=Most%20Used%20Languages&langs_count=8&layout=compact&v=2&hide_border=true&theme=transparent&range=all_time)](https://wakatime.com/@Marco163b)
 
-[https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white]
+<div>
+  https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
+</div>
