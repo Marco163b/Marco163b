@@ -5,7 +5,7 @@
 - Aficionado por inovação 🚀
 
 <h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Bem+vindo+ao+meu+perfil!;" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Bem+vindo+ao+meu+perfil!!;" />
 
 <h2 align="center" >⚡Stats⚡</h2>
 <br>
@@ -31,7 +31,7 @@
 <a href="https://www.linkedin.com/in/marcoand/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
 
 <h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=5000&lines=Obrigado+pela+atenção!!;"/>
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4500&lines=Obrigado+pela+atenção!!;"/>
 
 
 
