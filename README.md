@@ -1,5 +1,6 @@
+<h1 align="center">
 ## Olá! Sou o Marco 👋
-
+<h1 align="center">
 - Sou desenvolvedor Back-end 💻
 - Aficionado por inovação 🚀
 
