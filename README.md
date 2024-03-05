@@ -1,4 +1,4 @@
-## Olá! Sou o Marco
+## Olá! Sou o Marco 👋
 
 - Sou desenvolvedor Back-end
 - Aficionado por inovação
