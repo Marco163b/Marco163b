@@ -1,6 +1,6 @@
 <h1 align="center">
 ## Olá! Sou o Marco 👋
-<h1 align="center">
+<h2 align="center">
 - Sou desenvolvedor Back-end 💻
 - Aficionado por inovação 🚀
 
@@ -29,6 +29,9 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/marco_qtp)
 <a href = "mailto:marcoandradegon@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/marcoand/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
+
+<h1 align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Obrigado+pela+atenção!!;" />
 
 
 
