@@ -1,6 +1,7 @@
 ## Olá! Sou o Marco
 
 - Sou desenvolvedor Back-end
+- Aficionado por inovação
 
 [![Marco's github stats](https://github-readme-stats-one-bice.vercel.app/api?username=Marco163b&theme=transparent&hide_border=true&include_all_commits=true&show_icons=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&include_orgs=true)](https://github.com/Marco163b)
 <pt-br>
